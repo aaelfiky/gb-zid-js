@@ -1,0 +1,1 @@
+console.log("CUSTOMER: ",  window.customer.name);
